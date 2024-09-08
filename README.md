@@ -1,3 +1,7 @@
+## How to deploy this
+https://chatgpt.com/share/9cdf6ae8-4e69-4e2c-88aa-36c1bd7d599b
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
